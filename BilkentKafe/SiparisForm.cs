@@ -57,6 +57,7 @@ namespace BilkentKafe
         private void btnAnaSayfa_Click(object sender, EventArgs e)
         {
            // DialogResult = DialogResult.Cancel;
+           //Bu pencereyi kapat.
             Close();
         }
     }
