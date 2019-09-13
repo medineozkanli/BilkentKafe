@@ -173,6 +173,7 @@
             this.btnAnaSayfa.TabIndex = 10;
             this.btnAnaSayfa.Text = "<-- ANASAYFAYA DÖN";
             this.btnAnaSayfa.UseVisualStyleBackColor = false;
+            this.btnAnaSayfa.Click += new System.EventHandler(this.btnAnaSayfa_Click);
             // 
             // lblMasaNo
             // 
